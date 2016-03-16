@@ -1,8 +1,13 @@
 ---
 layout: default
 img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+category: Bio
+title: Who am I?
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+As I already mentioned my name is Wiebe Marichael. I'll turn 21 the 6th of april.
+I grew up and still live together with my 2 younger brothers and my mother in Ruiselede.
+I'm a student Applied Informatics at HoGent University. At this moment I'm in my last year Mobile Applications.
+When I'm not working for school, I like to be with my family and friends.
+I also enjoy spending time in the gym and I'm also into 'the healthy lifestyle'.
+Apart from that I like to surf when I have the chance to.
