@@ -1,13 +1,8 @@
----
+/*---
 layout: default
 img: ipad.png
-category: bio
-title: Who am I?
+category: personal
+title: Personal
 description: |
 ---
-As I already mentioned my name is Wiebe Marichael. I'll turn 21 the 6th of april.
-I grew up and still live together with my 2 younger brothers and my mother in Ruiselede.
-I'm a student Applied Informatics at HoGent University. At this moment I'm in my last year Mobile Applications.
-When I'm not working for school, I like to be with my family and friends.
-I also enjoy spending time in the gym and I'm also into 'the healthy lifestyle'.
-Apart from that I like to surf when I have the chance to.
+*/
