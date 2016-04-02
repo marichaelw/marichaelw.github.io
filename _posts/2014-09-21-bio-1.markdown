@@ -1,8 +1,10 @@
-/*---
+---
 layout: default
 img: ipad.png
 category: personal
 title: Personal
 description: |
 ---
-*/
+This site will serve as my personal page. Here you can find information about myself and my achievements.
+As a last year student I have not a lot of projects to show. One of my projects are showcased below.
+Next to coding I also have a passion for surfing and spending time in the gym. I also try to travel as much as I can.
