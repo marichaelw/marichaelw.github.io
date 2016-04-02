@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pexels-personal.png
+img: pexels-personal.jpg
 category: personal
 title: Personal
 description: |
