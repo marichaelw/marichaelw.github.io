@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ipad.png
-category: Bio
+category: bio
 title: Who am I?
 description: |
 ---
