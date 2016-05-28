@@ -1,10 +1,11 @@
 ---
 layout: default
-img: pexels-personal.jpg
+img: personal.jpg
 category: personal
-title: Personal
+title: About myself
 description: |
 ---
-This site will serve as my personal page. Here you can find information about myself and my achievements.
-As a last year student I have not a lot of projects to show. One of my projects are showcased below.
-Next to coding I also have a passion for surfing and spending time in the gym. I also try to travel as much as I can.
+My name is Wiebe Marichael and I am a 21 year old student from Belgium. I'm a student Applied Informatics at University College Ghent. At this moment I'm in my last year Mobile Applications.
+I grew up and still live together with my 2 younger brothers and my mother in Ruiselede.
+My passions are web and native development. Next to coding I also have a passion for surfing and fitness.
+I also try to travel as much as possible.
