@@ -1,6 +1,7 @@
 <section id="personal">
 <!-- Page Content -->
-{% for post in site.posts.personal reversed %}
+{% for map in site.posts reversed %}
+  {% for post in map.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
