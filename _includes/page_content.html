@@ -1,7 +1,6 @@
 <section id="personal">
 <!-- Page Content -->
-{% for map in site.posts reversed %}
-  {% for post in map.posts reversed %}
+{% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -49,6 +48,5 @@
     </div>
     <!-- /.content-section-b -->
     {% endif %}
-    {% endfor %}
 {% endfor %}
 </section>
