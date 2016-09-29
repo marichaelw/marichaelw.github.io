@@ -5,7 +5,5 @@ category: personal
 title: About myself
 description: |
 ---
-My name is Wiebe Marichael and I am a 21 year old student from Belgium. I'm a student Applied Informatics at University College Ghent. At this moment I'm in my last year Mobile Applications.
-I grew up and still live together with my 2 younger brothers and my mother in Ruiselede.
-My passions are web and native development. Next to coding I also have a passion for surfing and fitness.
-I also try to travel as much as possible.
+My name is Wiebe Marichael and I am a 21 year old student from Belgium.
+I grew up and still live together with my 2 younger brothers and my mother in Ruiselede, Belgium.

@@ -1,0 +1,10 @@
+---
+layout: default
+img: education.jpg
+category: Education
+title: Education
+description: |
+---
+
+Last year I finished my studies Applied Informatics, Mobile Applications at University College Ghent.
+During my studies I was really interested in web and native mobile development but I also created a passion for project management. That is one of the reasons I decided to go for a postgraduate IT management.
