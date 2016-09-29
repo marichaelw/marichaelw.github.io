@@ -1,6 +1,6 @@
 ---
 layout: default
-img: personal.jpg
+img: personal2.jpg
 category: personal
 title: About myself
 description: |
