@@ -6,6 +6,6 @@ title: Work
 description: |
 ---
 
-To gain experience while studying IT management, I decided to look for a part-time job. <a href="http://www.sirus.be">Sirus</a> is giving me this opportunity which I'm very thankful for!
+To gain experience while studying IT management, I decided to look for a part-time job. <a href="http://www.sirus.be">Sirus</a> has given me this opportunity which I'm very thankful for!
 As part of a high end consulting company, our mission is to bring specialized knowledge to our customer to make them successful. We have solid experience in .NET & Sharepoint, but also embrace innovative thinking and Internet of Things. 
-As junior IT consult I'm able to work on interesting projects that allow me to further develop my skills and gain experience.
+As IT consult I'm able to work on interesting projects that allow me to further develop my skills and gain experience.
