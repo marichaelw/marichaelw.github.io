@@ -1,0 +1,11 @@
+---
+layout: default
+img: personal2.jpg
+category: personal
+title: About myself
+description: |
+---
+My name is Wiebe Marichael and I am a 22 year old IT consultant.
+I grew up together with my 2 younger brothers and my mother in Ruiselede, Belgium.
+Friends describe me as a responsible, flexible and ambitious young man.
+I like to spend my free time in the gym or on a surfboard.
